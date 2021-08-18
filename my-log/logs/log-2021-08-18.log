@@ -1,0 +1,28 @@
+2021-08-18 00:04:49.998  [INFO,/usr/local/go/src/runtime/asm_amd64.s,runtime.goexit,1371] --> sssssssssssss
+2021-08-18 00:04:49.998  [DEBUG,/usr/local/go/src/runtime/asm_amd64.s,runtime.goexit,1371] --> ssssssssssssjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjsssssss
+2021-08-18 00:04:49.998  [ERROR,/usr/local/go/src/runtime/asm_amd64.s,runtime.goexit,1371] --> sssssssssssssssss
+2021-08-18 00:04:49.998  [WARN,/usr/local/go/src/runtime/asm_amd64.s,runtime.goexit,1371] --> sssssssssssssssssss
+2021-08-18 00:06:19.779  [INFO ,file: /usr/local/go/src/runtime/asm_amd64.s ,FuncName: runtime.goexit ,line: 1371] --> sssssssssssss
+2021-08-18 00:06:19.779  [DEBUG ,file: /usr/local/go/src/runtime/asm_amd64.s ,FuncName: runtime.goexit ,line: 1371] --> ssssssssssssjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjsssssss
+2021-08-18 00:06:19.779  [ERROR ,file: /usr/local/go/src/runtime/asm_amd64.s ,FuncName: runtime.goexit ,line: 1371] --> sssssssssssssssss
+2021-08-18 00:06:19.779  [WARN ,file: /usr/local/go/src/runtime/asm_amd64.s ,FuncName: runtime.goexit ,line: 1371] --> sssssssssssssssssss
+2021-08-18 00:09:28.999  [INFO ,file: /usr/local/go/src/runtime/proc.go ,FuncName: runtime.main ,line: 225] --> sssssssssssss
+2021-08-18 00:09:28.999  [DEBUG ,file: /usr/local/go/src/runtime/proc.go ,FuncName: runtime.main ,line: 225] --> ssssssssssssjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjsssssss
+2021-08-18 00:09:28.999  [ERROR ,file: /usr/local/go/src/runtime/proc.go ,FuncName: runtime.main ,line: 225] --> sssssssssssssssss
+2021-08-18 00:09:28.999  [WARN ,file: /usr/local/go/src/runtime/proc.go ,FuncName: runtime.main ,line: 225] --> sssssssssssssssssss
+2021-08-18 00:09:36.664  [INFO ,file: /home/xk/work/go-work/src/my-log/main.go ,FuncName: main.main ,line: 7] --> sssssssssssss
+2021-08-18 00:09:36.664  [DEBUG ,file: /home/xk/work/go-work/src/my-log/main.go ,FuncName: main.main ,line: 8] --> ssssssssssssjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjsssssss
+2021-08-18 00:09:36.664  [ERROR ,file: /home/xk/work/go-work/src/my-log/main.go ,FuncName: main.main ,line: 9] --> sssssssssssssssss
+2021-08-18 00:09:36.664  [WARN ,file: /home/xk/work/go-work/src/my-log/main.go ,FuncName: main.main ,line: 10] --> sssssssssssssssssss
+2021-08-18 00:09:46.253  [INFO] --> sssssssssssss
+2021-08-18 00:09:46.253  [DEBUG] --> ssssssssssssjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjsssssss
+2021-08-18 00:09:46.253  [ERROR] --> sssssssssssssssss
+2021-08-18 00:09:46.253  [WARN] --> sssssssssssssssssss
+2021-08-18 00:09:52.912  [INFO ,file: /home/xk/work/go-work/src/my-log/module/log/logs.go ,FuncName: my-log/module/log.LogInfo ,line: 47] --> sssssssssssss
+2021-08-18 00:09:52.912  [DEBUG ,file: /home/xk/work/go-work/src/my-log/module/log/logs.go ,FuncName: my-log/module/log.LogDEBUG ,line: 58] --> ssssssssssssjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjsssssss
+2021-08-18 00:09:52.912  [ERROR ,file: /home/xk/work/go-work/src/my-log/module/log/logs.go ,FuncName: my-log/module/log.LogERROR ,line: 69] --> sssssssssssssssss
+2021-08-18 00:09:52.912  [WARN ,file: /home/xk/work/go-work/src/my-log/module/log/logs.go ,FuncName: my-log/module/log.LogWARN ,line: 80] --> sssssssssssssssssss
+2021-08-18 00:10:09.201  [INFO ,file: /home/xk/work/go-work/src/my-log/main.go ,FuncName: main.main ,line: 7] --> sssssssssssss
+2021-08-18 00:10:09.201  [DEBUG ,file: /home/xk/work/go-work/src/my-log/main.go ,FuncName: main.main ,line: 8] --> ssssssssssssjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjsssssss
+2021-08-18 00:10:09.201  [ERROR ,file: /home/xk/work/go-work/src/my-log/main.go ,FuncName: main.main ,line: 9] --> sssssssssssssssss
+2021-08-18 00:10:09.201  [WARN ,file: /home/xk/work/go-work/src/my-log/main.go ,FuncName: main.main ,line: 10] --> sssssssssssssssssss

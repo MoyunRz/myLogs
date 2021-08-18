@@ -1,0 +1,13 @@
+[logconfig]
+    # 输出目录
+    output_dir = "logs"
+    # 日志文件输出时所显示时间
+    output_format = "2006-01-02 15:04:05.999"
+    # 日志文件前缀
+    log_pre_fix = "2006-01-02"
+    # 日志文件后缀
+    log_suf_fix = "log"
+    # 默认日志格式
+    log_level = "DEBUG"
+    # 是否开启控制台打印
+    console = true
